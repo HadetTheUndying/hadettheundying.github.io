@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I break things for a living, then get I paid to fix them.
 
-### More Information
+### About Me
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a System Administrator and Programming Hobbyist from Rural Missouri.
+
+The more you know:
++ I have been working with Unix-Like Environments since the early 2000's.
++ At one point I was a decent 3D Artist and contributed assets to several game projects.
++ I moderate several large communities.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hadet@protonmail.com](mailto:hadet@protonmail.com)
