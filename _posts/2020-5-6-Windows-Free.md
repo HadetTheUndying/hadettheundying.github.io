@@ -50,13 +50,13 @@ Some things I really like about Void:
 I am able to run Void on a variety of systems because of the portability of the package manager.
 
 Currently I'm running Void on:
-+ Main Main Desktop and Work Laptop
++ My Main Desktop and Work Laptop
 + 3 raspberry pi 3Bs
 + 2 PowerMac G5 towers
 + 3 PowerBook G4s 
 + My 2u Frankenstein Server
 
-I have only had Void break from updating one time in the nearly 2 years I have been using it. While there has been a fair bit of public drama regarding the distribution recently things on the end that matters, which is maintenance continue to go forward as normal.
+I have only had Void break from updating one time in the nearly 2 years I have been using it. While there has been a fair bit of public drama regarding the distribution recently, things on the end that matters, which is maintenance continue to go forward as normal.
 
 
 ## The Desktop Experience
@@ -70,7 +70,7 @@ In the  end I decided to use Gnome 3 as it is the default environment on many Di
 
 ## I won't be returning to Windows
 
-Here is a short list of reasons I won't return to Windows:
+Here is a short list of reasons why I won't return to Windows:
 + Reformatting should not be a recommended Maintenance Step
 + Windows Update is undeniably broken,
 + NTFS is almost as old as I am, has notoriously slow I/O and leads to horrible disk fragmentation.
@@ -84,6 +84,6 @@ I am willing to give up the 10 or so games I might not be able to play right now
 
 After 3 years using a Linux Distribution as my daily Operating System for work. I can certainly recommend that you give it a try unless you are doing Audio Production, which is a miserable experience and there's a reason why Apple is praised in this field. 
 
-I hope in 3 years time I won't be back here eating my words like I was with Gentoo and Fedora in 2009, but I don't really forsee that happening. Things have improved so much, the world runs on Open Source now.
+I hope in 3 years time I won't be back here eating my words like I was with Gentoo and Fedora in 2009, but I don't really foresee that happening. Things have improved so much, the world runs on Open Source now.
 
-If you wants any advice on making the switch feel free to contact me. I will be posting about my experience on PowerPC very soon.
+If you want any advice on making the switch, feel free to contact me. I will be posting about my experience on PowerPC very soon.
