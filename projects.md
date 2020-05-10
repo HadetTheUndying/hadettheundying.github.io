@@ -15,13 +15,17 @@ Here is a list of Projects I currently work on or have input on:
 Game Servers that I operate:
 
 + Minecraft Vanilla 1.15
-Address:chaosdecretum.com
+
+        Address:chaosdecretum.com
 
 + Open Arena: oa.nixne.st
 
-+ TES3MP Two Connection Options.
++ TES3MP Two Connection Options:
+
 Server Browser name: ![SLMC]!
+
 OR add this to the top of your tes3mp-client-default.cfg
+
 ```
 [General]
 destinationAddress = 66.228.52.39
