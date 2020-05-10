@@ -16,7 +16,7 @@ Game Servers that I operate:
 
 + Minecraft Vanilla 1.15
 
-        Address:chaosdecretum.com
+Address:chaosdecretum.com
 
 + Open Arena: oa.nixne.st
 
