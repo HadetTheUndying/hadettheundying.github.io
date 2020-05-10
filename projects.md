@@ -14,19 +14,16 @@ Here is a list of Projects I currently work on or have input on:
 
 Game Servers that I operate:
 
-```
-Minecraft Vanilla 1.15
++ Minecraft Vanilla 1.15
 Address:chaosdecretum.com
-This is my Server, Don't be douchey, there are a few Moderators
 
-Open Arena: oa.nixne.st
-FFA Full map Rotation, This is also my Server.
++ Open Arena: oa.nixne.st
 
-TES3MP Two Connection Options.
++ TES3MP Two Connection Options.
 Server Browser name: ![SLMC]!
 OR add this to the top of your tes3mp-client-default.cfg
+```
 [General]
 destinationAddress = 66.228.52.39
 port = 25566
-Tough Fish and Sam are moderators right now, we'll probably need more we're the third most popular server currently.
 ```
