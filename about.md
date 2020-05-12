@@ -15,6 +15,12 @@ The more you know:
 + At one point I was a decent 3D Artist and contributed assets to several game projects.
 + I moderate several large communities.
 
+### Help Fix My Eyeballs
+
+[Patreon](https://www.patreon.com/hadetundying)
+Liberapay](https://liberapay.com/Hadet)
+[Buy Me a Coffee](https://www.buymeacoffee.com/hadet)
+
 ### Contact me
 
 [hadet@protonmail.com](mailto:hadet@protonmail.com)
