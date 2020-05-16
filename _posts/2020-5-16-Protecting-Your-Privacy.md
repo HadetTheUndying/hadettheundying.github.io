@@ -1,3 +1,8 @@
+---
+layout: post
+title: Protecting Your Privacy
+---
+
 Hello Friends,
 
 If you live in The United States, I have some unsurprising news for you, [Senate just Voted that the FBI can seize your Browsing and Search History without a Warrant.](https://www.vice.com/en_us/article/jgxxvk/senate-votes-to-allow-fbi-to-look-at-your-web-browsing-history-without-a-warrant). [Here's another link so you know who's responsible.](https://gizmodo.com/heres-who-just-voted-to-let-the-f-b-i-seize-your-searc-1843445032). Normally I'd want to avoid conspiracy terms in this Tech Oriented Blog but this is another example of the American Police State, and Dystopian Cyberpunk Nightmare Society we seem to be on a fast track towards. 
