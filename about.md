@@ -18,7 +18,9 @@ The more you know:
 ### Help Fix My Eyeballs
 
 [Patreon](https://www.patreon.com/hadetundying)
-Liberapay](https://liberapay.com/Hadet)
+
+[Liberapay](https://liberapay.com/Hadet)
+
 [Buy Me a Coffee](https://www.buymeacoffee.com/hadet)
 
 ### Contact me
