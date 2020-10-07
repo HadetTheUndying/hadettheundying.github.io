@@ -16,9 +16,9 @@ Game Servers that I operate:
 
 + Minecraft Vanilla 1.15
 
-Address:chaosdecretum.com
+Address:chaos.church
 
-+ Open Arena: oa.nixne.st
++ Open Arena:chaos.church
 
 + TES3MP Two Connection Options:
 
