@@ -3,8 +3,6 @@ layout: post
 title: Don't Install Manjaro
 ---
 
-# Why Manjaro is bad:
-
 Manjaro markets itself as a new user friendly distribution. It attempts to cater to the the same demographic of users as Mint(a conversation for another time.) and Ubuntu. The Manjaro maintainers are however very bad at doing this at anything deeper than a surface level. This makes the concept fundamentally fall apart.
 
 ## Things to consider(in no particular order):
