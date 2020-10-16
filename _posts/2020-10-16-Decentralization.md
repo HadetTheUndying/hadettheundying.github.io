@@ -25,14 +25,14 @@ I listed Moderation as a partial benefit to Centralized Platforms earlier. Centr
 
 + Twitter Suspends my account for telling a pedophile to castrate themselves. They gave me the option to delete the post without checking the context, this person was advocating for Pedophilia. This also happened to me on Reddit and I am still banned from r/linux_gaming over confronting an notorious online pedophile named Swiftpaw22.
 
-![Twitter]("https://media.discordapp.net/attachments/671505756989816841/750238647051092008/Screenshot_20200901-011240.png")
+![Twitter](https://media.discordapp.net/attachments/671505756989816841/750238647051092008/Screenshot_20200901-011240.png)
 
 + Linden Lab Suspends my Account due to Mass Reporting, or Whitney Linden Specifically despite me not violating to their TOS.
 
-![Mass Reports]("https://cdn.discordapp.com/attachments/671553369852215326/761670443375525938/Screenshot_20201002-134548.png")
+![Mass Reports](https://cdn.discordapp.com/attachments/671553369852215326/761670443375525938/Screenshot_20201002-134548.png)
 
 + Linden Lab Reclaims out virtual Land, initially assigns the Administrators involved in the reclaiming to our support ticket. now we're down 220 Dollars and they deleted our group too.
-![Obi Linden]("https://cdn.discordapp.com/attachments/679027563682725914/766072296246476800/unknown.png")
+![Obi Linden](https://cdn.discordapp.com/attachments/679027563682725914/766072296246476800/unknown.png)
 
 # Centralized Platforms and Alternatives
 
