@@ -52,7 +52,7 @@ Mastadon is also a good Twitter Alternative.
 
 ## [GitHub]("https://github.com/HadetTheUndying")
 
-I use GitHub daily, this site is hosted on GitHub Pages, I don't have much bad to say about GitHub's business model and I could always take all of my Repos and move them somewhere else, or host my own Git Repo on my own hardware. GitHub is the good kind of centralization, even if they're not owned by Microsoft.
+I use GitHub daily, this site is hosted on GitHub Pages, I don't have much bad to say about GitHub's business model and I could always take all of my Repos and move them somewhere else, or host my own Git Repo on my own hardware. GitHub is the good kind of centralization, even if they are owned by Microsoft.
 
 If you're not satisfied with GitHub there's always self-hosting or GitLab, ect. Git can be run totally locally as just a Version Control System too.
 
