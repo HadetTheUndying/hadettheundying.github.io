@@ -5,6 +5,10 @@ permalink: /projects/
 ---
 [A link to my Discord](https://discord.gg/RPgbjJs)
 
+The Topp Internet Radio Project:
+
+<iframe src="https://radio.hadet.dev/public/the-topp/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+
 Here is a list of Projects I currently work on or have input on:
 
 + [Listen Based Armor in Second Life](https://github.com/Krutchen/SLMCLBA)
