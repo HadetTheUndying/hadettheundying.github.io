@@ -11,7 +11,9 @@ I recommend following [Linode's Guide on Hardening SSH Access]("https://www.lino
 
 # Now that your server install is ready let's install dependencies:
 
-`sudo apt install  atool mono ufw screen libturbojpeg0 unzip`
+```
+sudo apt install  atool mono ufw screen libturbojpeg0 unzip
+```
 
 Press **Y**.
 
@@ -24,7 +26,9 @@ sudo ufw allow 9000:9100/udp
 
 # Set up a user for OSGrid's OpenSim binary to run as:
 
-`sudo adduser --disabled-login osgrid`
+```
+sudo adduser --disabled-login osgrid
+```
 
 You can just leave all the prompts blank.
 
@@ -65,11 +69,14 @@ First press **CTRL+D** to exit the osgrid user session and get back to your main
 
 By default Debian Comes with `nano` I hate `nano` but we'll use it anyway.
 
-Run: `sudo nano /lib/systemd/system/opensim.service`
+Run: 
+
+```sudo nano /lib/systemd/system/opensim.service
+```
 
 Then paste this in pressing SHIFT+CTRL+V
 
-```
+```ini
 [Unit]
 Description=OpenSim Service
 After=syslog.target network.target
@@ -90,9 +97,16 @@ WantedBy=multi-user.target
 
 Now Let's enable and start the service
 
-type: `sudo systemctl enable opensim.service`
+type: 
+```
+`sudo systemctl enable opensim.service
+```
 
-then type: `sudo systemctl start opensim.service` It might have started running when you enabled it.
+then type: 
+```
+sudo systemctl start opensim.service
+``` 
+It might have started running when you enabled it.
 
 You can check the status of it with `sudo systemctl status opensim.service` Read the systemctl manual for more understanding.
 
@@ -100,7 +114,9 @@ That's it you should be good.
 
 You can access the server console with screen like this:
 
-`sudo su osgrid -c 'screen -r OpenSimService'`
+```
+sudo su osgrid -c 'screen -r OpenSimService'
+```
 
 You can quit the console without killing the server by pressing **CTRL+A** and then hitting **D** on the keyboard. 
 
