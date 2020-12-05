@@ -71,7 +71,8 @@ By default Debian Comes with `nano` I hate `nano` but we'll use it anyway.
 
 Run: 
 
-```sudo nano /lib/systemd/system/opensim.service
+```
+sudo nano /lib/systemd/system/opensim.service
 ```
 
 Then paste this in pressing SHIFT+CTRL+V
