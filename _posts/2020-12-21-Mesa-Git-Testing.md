@@ -32,7 +32,7 @@ To preload your newly built drivers use `LIBGL_DRIVERS_PATH=/tmp/mesa-git/lib/dr
 
 For example: `LIBGL_DRIVERS_PATH=/tmp/mesa-git/lib/dri/ glxgears -info`
 
-#Overriding Vulkan Drivers
+# Overriding Vulkan Drivers
 
 This is pretty similar you just need to use the `VK_ICD_FILENAMES` override.
 
